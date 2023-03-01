@@ -1,4 +1,4 @@
- #Jogo freeway 
+ #JOGO FREEWAY 🎮	🎲
 
 
 >Este projeto foi criado em aula com @Alura, foi umas das primeiras experiência com código.
